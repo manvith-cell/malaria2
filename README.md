@@ -1,2 +1,1 @@
-# malaria2
-MALARIA 2 MODEL
+The Malaria 2 Model demonstrates the use of machine learning techniques for early malaria detection. By analyzing medical data efficiently, the system helps improve diagnosis accuracy and supports healthcare professionals in making timely treatment decisions.
